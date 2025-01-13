@@ -2,7 +2,7 @@
 
 const nextConfig = {
     eslint: {
-        output:"export"
+        output:"export",
     },
 }
 
